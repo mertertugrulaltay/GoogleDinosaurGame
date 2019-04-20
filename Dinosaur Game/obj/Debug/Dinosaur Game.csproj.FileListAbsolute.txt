@@ -1,0 +1,40 @@
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe.config
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.pdb
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csprojResolveAssemblyReference.cache
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.GameScreen.resources
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.Properties.Resources.resources
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csproj.GenerateResource.Cache
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.exe
+c:\users\mert ertuğrul\documents\visual studio 2015\Projects\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.pdb
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe.config
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.exe
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.pdb
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.pdb
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csprojResolveAssemblyReference.cache
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.GameScreen.resources
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.Properties.Resources.resources
+C:\Users\Mert Ertuğrul\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csproj.GenerateResource.Cache
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe.config
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.exe
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.pdb
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.pdb
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csprojResolveAssemblyReference.cache
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.GameMainMenu.resources
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.GameScreen.resources
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.Properties.Resources.resources
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csproj.GenerateResource.Cache
+C:\Users\Mert Ertuğrul\Desktop\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.HighScore.resources
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe.config
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.exe
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.pdb
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.exe
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\bin\Debug\Dinosaur Game.pdb
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csprojResolveAssemblyReference.cache
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.GameMainMenu.resources
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.GameScreen.resources
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.HighScore.resources
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur_Game.Properties.Resources.resources
+D:\C#\Yaptığım Projeler\Dinosaur Game (2017)\Dinosaur Game\Dinosaur Game\obj\Debug\Dinosaur Game.csproj.GenerateResource.Cache
