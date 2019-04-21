@@ -7,7 +7,7 @@ Google's dinosaur game was made using C # .NET.
 <a href="https://ibb.co/v1qRRXP"><img src="https://i.ibb.co/qBjVVJs/2.jpg" alt="2" border="0"></a>
 <br/>
 
-### Use and Features
+### Use and Features:
 - The buzzer sounds when the score is 100 and 100 is solid.
 - The highest score is added to the database.
 - The database files of the project are in the **bin/Debug** folder.
